@@ -18,3 +18,5 @@ Developers who want a long-context, natively multimodal model and are comfortabl
 ---
 
 *This is an independent review page, not affiliated with or endorsed by Moonshot AI, and all trademarks remain the property of their owners.*
+
+_Last reviewed: 2026-09-22_
